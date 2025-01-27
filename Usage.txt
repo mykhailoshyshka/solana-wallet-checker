@@ -1,0 +1,16 @@
+	1.	Run the script:
+python solana_wallet_checker.py
+
+	2.	Enter the wallet address you want to check when prompted.
+Example Output
+Enter a Solana wallet address to check: ExampleWalletAddress123
+The wallet ExampleWalletAddress123 is active.
+
+License
+This project is licensed under the MIT License.
+---
+
+### Как улучшить проект:
+1. **Добавить поддержку нескольких кошельков:** Список адресов можно загружать из файла или базы данных.
+2. **Расширить аналитику:** Получать дополнительные данные, такие как баланс кошелька.
+3. **Интеграция с веб-интерфейсом:** Создать веб-приложение для визуализации активности.
